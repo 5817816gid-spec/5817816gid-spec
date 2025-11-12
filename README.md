@@ -58,7 +58,7 @@
 
 ## 💬 Контакты
 
-📧 Email: [alromanovaaa@mail.ru](mailto:твоя_почта@example.com)  
+📧 Email: [alromanovaaa@yandex.ru](mailto:твоя_почта@example.com)  
 💬 Telegram: [@al_rommm](https://t.me/твой_ник)  
 ---
 
