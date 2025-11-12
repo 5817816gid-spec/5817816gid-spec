@@ -23,7 +23,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black) 
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white) 
 ![HTTP](https://img.shields.io/badge/HTTP-FF6C37?logo=hyper&logoColor=white) 
-![Фирма](https://img.shields.io/badge/Фирма-4CAF50)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ### 💻 Веб-технологии и фронтенд
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white) 
