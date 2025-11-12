@@ -32,7 +32,6 @@
 ![Charles](https://img.shields.io/badge/Charles-FF6C37)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-Bash  
 
 ### 🗄️ Базы данных и аналитика
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
