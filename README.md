@@ -22,7 +22,6 @@
 ![SOAP](https://img.shields.io/badge/SOAP-007ACC?logo=azuredevops&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
 ### 💻 Веб-технологии и фронтенд
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
